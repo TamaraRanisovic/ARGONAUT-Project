@@ -1,0 +1,399 @@
+FLOW_name,LCIAMethod_name,CF EF3.1,FLOW_class1,FLOW_class2
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+hydrazine,"Human toxicity, cancer_inorganics",0.0000084095,Emissions to air,"Emissions to air, unspecified"
+hydrazine,"Human toxicity, cancer_inorganics",0.000012682,Emissions to air,Emissions to urban air close to ground
+hydrazine,"Human toxicity, cancer_inorganics",0.0000041368,Emissions to air,Emissions to non-urban air or from high stacks
+hydrazine,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+hydrazine,"Human toxicity, cancer_inorganics",0.00081808,Emissions to air,"Emissions to air, indoor"
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+cfc-12,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+allyl chloride,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+CFC-12,"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+hydrazine,"Human toxicity, cancer_inorganics",0.0000060946,Emissions to water,"Emissions to water, unspecified"
+hydrazine,"Human toxicity, cancer_inorganics",0.0000038039,Emissions to soil,Emissions to non-agricultural soil
+hydrazine,"Human toxicity, cancer_inorganics",0.0000041368,Emissions to air,Emissions to lower stratosphere and upper troposphere
+hydrazine,"Human toxicity, cancer_inorganics",0.000012158,Emissions to water,Emissions to fresh water
+hydrazine,"Human toxicity, cancer_inorganics",0.0000058072,Emissions to soil,Emissions to agricultural soil
+hydrazine,"Human toxicity, cancer_inorganics",0.0000048055,Emissions to soil,"Emissions to soil, unspecified"
+hydrazine,"Human toxicity, cancer_inorganics",0.000000031471,Emissions to water,Emissions to sea water
+hydrazine,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+sodium azide,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+antimony,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+antimony (iii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+antimony (v),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+arsenic,"Human toxicity, cancer_inorganics",0.00181,Emissions to air,"Emissions to air, indoor"
+arsenic,"Human toxicity, cancer_inorganics",0.000043981,Emissions to air,"Emissions to air, unspecified"
+arsenic,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+arsenic,"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to lower stratosphere and upper troposphere
+arsenic,"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to non-urban air close to ground
+arsenic,"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to non-urban air high stack
+arsenic,"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to non-urban air low stack
+arsenic,"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to non-urban air or from high stacks
+arsenic,"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to non-urban air very high stack
+arsenic,"Human toxicity, cancer_inorganics",0.000052931,Emissions to air,Emissions to urban air close to ground
+arsenic,"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to urban air high stack
+arsenic,"Human toxicity, cancer_inorganics",0.000052931,Emissions to air,Emissions to urban air low stack
+arsenic,"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to urban air very high stack
+arsenic,"Human toxicity, cancer_inorganics",0.000056899,Emissions to soil,Emissions to agricultural soil
+arsenic,"Human toxicity, cancer_inorganics",0.000018035,Emissions to soil,Emissions to non-agricultural soil
+arsenic,"Human toxicity, cancer_inorganics",0.000037467,Emissions to soil,"Emissions to soil, unspecified"
+arsenic,"Human toxicity, cancer_inorganics",0.000034101,Emissions to water,Emissions to fresh water
+arsenic,"Human toxicity, cancer_inorganics",0.0000030293,Emissions to water,Emissions to sea water
+arsenic,"Human toxicity, cancer_inorganics",0.000018565,Emissions to water,"Emissions to water, unspecified"
+arsenic,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+arsenic (iii),"Human toxicity, cancer_inorganics",0.00181,Emissions to air,"Emissions to air, indoor"
+arsenic (iii),"Human toxicity, cancer_inorganics",0.000043981,Emissions to air,"Emissions to air, unspecified"
+arsenic (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+arsenic (iii),"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to lower stratosphere and upper troposphere
+arsenic (iii),"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to non-urban air or from high stacks
+arsenic (iii),"Human toxicity, cancer_inorganics",0.000052931,Emissions to air,Emissions to urban air close to ground
+arsenic (iii),"Human toxicity, cancer_inorganics",0.000056899,Emissions to soil,Emissions to agricultural soil
+arsenic (iii),"Human toxicity, cancer_inorganics",0.000018035,Emissions to soil,Emissions to non-agricultural soil
+arsenic (iii),"Human toxicity, cancer_inorganics",0.000037467,Emissions to soil,"Emissions to soil, unspecified"
+arsenic (iii),"Human toxicity, cancer_inorganics",0.000034101,Emissions to water,Emissions to fresh water
+arsenic (iii),"Human toxicity, cancer_inorganics",0.0000030293,Emissions to water,Emissions to sea water
+arsenic (iii),"Human toxicity, cancer_inorganics",0.000018565,Emissions to water,"Emissions to water, unspecified"
+arsenic (iii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+arsenic (v),"Human toxicity, cancer_inorganics",0.00181,Emissions to air,"Emissions to air, indoor"
+arsenic (v),"Human toxicity, cancer_inorganics",0.000043981,Emissions to air,"Emissions to air, unspecified"
+arsenic (v),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+arsenic (v),"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to lower stratosphere and upper troposphere
+arsenic (v),"Human toxicity, cancer_inorganics",0.000035031,Emissions to air,Emissions to non-urban air or from high stacks
+arsenic (v),"Human toxicity, cancer_inorganics",0.000052931,Emissions to air,Emissions to urban air close to ground
+arsenic (v),"Human toxicity, cancer_inorganics",0.000056899,Emissions to soil,Emissions to agricultural soil
+arsenic (v),"Human toxicity, cancer_inorganics",0.000018035,Emissions to soil,Emissions to non-agricultural soil
+arsenic (v),"Human toxicity, cancer_inorganics",0.000037467,Emissions to soil,"Emissions to soil, unspecified"
+arsenic (v),"Human toxicity, cancer_inorganics",0.000034101,Emissions to water,Emissions to fresh water
+arsenic (v),"Human toxicity, cancer_inorganics",0.0000030293,Emissions to water,Emissions to sea water
+arsenic (v),"Human toxicity, cancer_inorganics",0.000018565,Emissions to water,"Emissions to water, unspecified"
+arsenic (v),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air close to ground
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air high stack
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air low stack
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air very high stack
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air high stack
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air low stack
+barium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air very high stack
+barium,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+barium,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+barium,"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+barium,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+barium,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+barium,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+barium,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+barium (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+beryllium,"Human toxicity, cancer_inorganics",0.00099194,Emissions to air,"Emissions to air, indoor"
+beryllium,"Human toxicity, cancer_inorganics",0.0000061995,Emissions to air,"Emissions to air, unspecified"
+beryllium,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+beryllium,"Human toxicity, cancer_inorganics",0.00000095713,Emissions to air,Emissions to lower stratosphere and upper troposphere
+beryllium,"Human toxicity, cancer_inorganics",0.00000095713,Emissions to air,Emissions to non-urban air close to ground
+beryllium,"Human toxicity, cancer_inorganics",0.00000095713,Emissions to air,Emissions to non-urban air high stack
+beryllium,"Human toxicity, cancer_inorganics",0.00000095713,Emissions to air,Emissions to non-urban air low stack
+beryllium,"Human toxicity, cancer_inorganics",0.00000095713,Emissions to air,Emissions to non-urban air or from high stacks
+beryllium,"Human toxicity, cancer_inorganics",0.00000095713,Emissions to air,Emissions to non-urban air very high stack
+beryllium,"Human toxicity, cancer_inorganics",0.000011442,Emissions to air,Emissions to urban air close to ground
+beryllium,"Human toxicity, cancer_inorganics",0.00000095713,Emissions to air,Emissions to urban air high stack
+beryllium,"Human toxicity, cancer_inorganics",0.000011442,Emissions to air,Emissions to urban air low stack
+beryllium,"Human toxicity, cancer_inorganics",0.00000095713,Emissions to air,Emissions to urban air very high stack
+beryllium,"Human toxicity, cancer_inorganics",1.649E-25,Emissions to soil,Emissions to agricultural soil
+beryllium,"Human toxicity, cancer_inorganics",1.649E-25,Emissions to soil,Emissions to non-agricultural soil
+beryllium,"Human toxicity, cancer_inorganics",1.649E-25,Emissions to soil,"Emissions to soil, unspecified"
+beryllium,"Human toxicity, cancer_inorganics",8.1861E-28,Emissions to water,Emissions to fresh water
+beryllium,"Human toxicity, cancer_inorganics",9.2638E-28,Emissions to water,Emissions to sea water
+beryllium,"Human toxicity, cancer_inorganics",8.7249E-28,Emissions to water,"Emissions to water, unspecified"
+beryllium,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+beryllium (ii),"Human toxicity, cancer_inorganics",0.00099194,Emissions to air,"Emissions to air, indoor"
+beryllium (ii),"Human toxicity, cancer_inorganics",0.0000061995,Emissions to air,"Emissions to air, unspecified"
+beryllium (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+beryllium (ii),"Human toxicity, cancer_inorganics",0.00000095713,Emissions to air,Emissions to lower stratosphere and upper troposphere
+beryllium (ii),"Human toxicity, cancer_inorganics",0.00000095713,Emissions to air,Emissions to non-urban air or from high stacks
+beryllium (ii),"Human toxicity, cancer_inorganics",0.000011442,Emissions to air,Emissions to urban air close to ground
+beryllium (ii),"Human toxicity, cancer_inorganics",1.649E-25,Emissions to soil,Emissions to agricultural soil
+beryllium (ii),"Human toxicity, cancer_inorganics",1.649E-25,Emissions to soil,Emissions to non-agricultural soil
+beryllium (ii),"Human toxicity, cancer_inorganics",1.649E-25,Emissions to soil,"Emissions to soil, unspecified"
+beryllium (ii),"Human toxicity, cancer_inorganics",8.1861E-28,Emissions to water,Emissions to fresh water
+beryllium (ii),"Human toxicity, cancer_inorganics",9.2638E-28,Emissions to water,Emissions to sea water
+beryllium (ii),"Human toxicity, cancer_inorganics",8.7249E-28,Emissions to water,"Emissions to water, unspecified"
+beryllium (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+cadmium,"Human toxicity, cancer_inorganics",0.00077091,Emissions to air,"Emissions to air, indoor"
+cadmium,"Human toxicity, cancer_inorganics",0.000031768,Emissions to air,"Emissions to air, unspecified"
+cadmium,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+cadmium,"Human toxicity, cancer_inorganics",0.000028382,Emissions to air,Emissions to lower stratosphere and upper troposphere
+cadmium,"Human toxicity, cancer_inorganics",0.000028382,Emissions to air,Emissions to non-urban air or from high stacks
+cadmium,"Human toxicity, cancer_inorganics",0.000035154,Emissions to air,Emissions to urban air close to ground
+cadmium,"Human toxicity, cancer_inorganics",0.000090016,Emissions to soil,Emissions to agricultural soil
+cadmium,"Human toxicity, cancer_inorganics",0.00000088764,Emissions to soil,Emissions to non-agricultural soil
+cadmium,"Human toxicity, cancer_inorganics",0.000045452,Emissions to soil,"Emissions to soil, unspecified"
+cadmium,"Human toxicity, cancer_inorganics",0.0000017466,Emissions to water,Emissions to fresh water
+cadmium,"Human toxicity, cancer_inorganics",0.00000010865,Emissions to water,Emissions to sea water
+cadmium,"Human toxicity, cancer_inorganics",0.0000009276,Emissions to water,"Emissions to water, unspecified"
+cadmium,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+cadmium (ii),"Human toxicity, cancer_inorganics",0.00077091,Emissions to air,"Emissions to air, indoor"
+cadmium (ii),"Human toxicity, cancer_inorganics",0.000031768,Emissions to air,"Emissions to air, unspecified"
+cadmium (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+cadmium (ii),"Human toxicity, cancer_inorganics",0.000028382,Emissions to air,Emissions to lower stratosphere and upper troposphere
+cadmium (ii),"Human toxicity, cancer_inorganics",0.000028382,Emissions to air,Emissions to non-urban air or from high stacks
+cadmium (ii),"Human toxicity, cancer_inorganics",0.000035154,Emissions to air,Emissions to urban air close to ground
+cadmium (ii),"Human toxicity, cancer_inorganics",0.000090016,Emissions to soil,Emissions to agricultural soil
+cadmium (ii),"Human toxicity, cancer_inorganics",0.00000088764,Emissions to soil,Emissions to non-agricultural soil
+cadmium (ii),"Human toxicity, cancer_inorganics",0.000045452,Emissions to soil,"Emissions to soil, unspecified"
+cadmium (ii),"Human toxicity, cancer_inorganics",0.0000017466,Emissions to water,Emissions to fresh water
+cadmium (ii),"Human toxicity, cancer_inorganics",0.00000010865,Emissions to water,Emissions to sea water
+cadmium (ii),"Human toxicity, cancer_inorganics",0.0000009276,Emissions to water,"Emissions to water, unspecified"
+cadmium (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+chromium,"Human toxicity, cancer_inorganics",0.00057069,Emissions to air,"Emissions to air, indoor"
+chromium,"Human toxicity, cancer_inorganics",0.000078078,Emissions to air,"Emissions to air, unspecified"
+chromium,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+chromium,"Human toxicity, cancer_inorganics",0.00007632,Emissions to air,Emissions to lower stratosphere and upper troposphere
+chromium,"Human toxicity, cancer_inorganics",0.00007632,Emissions to air,Emissions to non-urban air or from high stacks
+chromium,"Human toxicity, cancer_inorganics",0.000079836,Emissions to air,Emissions to urban air close to ground
+chromium,"Human toxicity, cancer_inorganics",0.00005091,Emissions to soil,Emissions to agricultural soil
+chromium,"Human toxicity, cancer_inorganics",0.000049738,Emissions to soil,Emissions to non-agricultural soil
+chromium,"Human toxicity, cancer_inorganics",0.000050324,Emissions to soil,"Emissions to soil, unspecified"
+chromium,"Human toxicity, cancer_inorganics",0.000099035,Emissions to water,Emissions to fresh water
+chromium,"Human toxicity, cancer_inorganics",0.0000063076,Emissions to water,Emissions to sea water
+chromium,"Human toxicity, cancer_inorganics",0.000052671,Emissions to water,"Emissions to water, unspecified"
+chromium,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+chromium (iii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+chromium (vi),"Human toxicity, cancer_inorganics",0.00057069,Emissions to air,"Emissions to air, indoor"
+chromium (vi),"Human toxicity, cancer_inorganics",0.000078078,Emissions to air,"Emissions to air, unspecified"
+chromium (vi),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+chromium (vi),"Human toxicity, cancer_inorganics",0.00007632,Emissions to air,Emissions to lower stratosphere and upper troposphere
+chromium (vi),"Human toxicity, cancer_inorganics",0.00007632,Emissions to air,Emissions to non-urban air or from high stacks
+chromium (vi),"Human toxicity, cancer_inorganics",0.000079836,Emissions to air,Emissions to urban air close to ground
+chromium (vi),"Human toxicity, cancer_inorganics",0.00005091,Emissions to soil,Emissions to agricultural soil
+chromium (vi),"Human toxicity, cancer_inorganics",0.000049738,Emissions to soil,Emissions to non-agricultural soil
+chromium (vi),"Human toxicity, cancer_inorganics",0.000050324,Emissions to soil,"Emissions to soil, unspecified"
+chromium (vi),"Human toxicity, cancer_inorganics",0.000099035,Emissions to water,Emissions to fresh water
+chromium (vi),"Human toxicity, cancer_inorganics",0.0000063076,Emissions to water,Emissions to sea water
+chromium (vi),"Human toxicity, cancer_inorganics",0.000052671,Emissions to water,"Emissions to water, unspecified"
+chromium (vi),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+lead,"Human toxicity, cancer_inorganics",0.00001031,Emissions to air,"Emissions to air, indoor"
+lead,"Human toxicity, cancer_inorganics",0.0000049718,Emissions to air,"Emissions to air, unspecified"
+lead,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+lead,"Human toxicity, cancer_inorganics",0.0000050447,Emissions to air,Emissions to lower stratosphere and upper troposphere
+lead,"Human toxicity, cancer_inorganics",0.0000050447,Emissions to air,Emissions to non-urban air or from high stacks
+lead,"Human toxicity, cancer_inorganics",0.0000048988,Emissions to air,Emissions to urban air close to ground
+lead,"Human toxicity, cancer_inorganics",0.000015305,Emissions to soil,Emissions to agricultural soil
+lead,"Human toxicity, cancer_inorganics",0.0000000084838,Emissions to soil,Emissions to non-agricultural soil
+lead,"Human toxicity, cancer_inorganics",0.000007657,Emissions to soil,"Emissions to soil, unspecified"
+lead,"Human toxicity, cancer_inorganics",0.000000014352,Emissions to water,Emissions to fresh water
+lead,"Human toxicity, cancer_inorganics",0.0000000028366,Emissions to water,Emissions to sea water
+lead,"Human toxicity, cancer_inorganics",0.0000000085945,Emissions to water,"Emissions to water, unspecified"
+lead,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+lead (ii),"Human toxicity, cancer_inorganics",0.00001031,Emissions to air,"Emissions to air, indoor"
+lead (ii),"Human toxicity, cancer_inorganics",0.0000049718,Emissions to air,"Emissions to air, unspecified"
+lead (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+lead (ii),"Human toxicity, cancer_inorganics",0.0000050447,Emissions to air,Emissions to lower stratosphere and upper troposphere
+lead (ii),"Human toxicity, cancer_inorganics",0.0000050447,Emissions to air,Emissions to non-urban air or from high stacks
+lead (ii),"Human toxicity, cancer_inorganics",0.0000048988,Emissions to air,Emissions to urban air close to ground
+lead (ii),"Human toxicity, cancer_inorganics",0.000015305,Emissions to soil,Emissions to agricultural soil
+lead (ii),"Human toxicity, cancer_inorganics",0.0000000084838,Emissions to soil,Emissions to non-agricultural soil
+lead (ii),"Human toxicity, cancer_inorganics",0.000007657,Emissions to soil,"Emissions to soil, unspecified"
+lead (ii),"Human toxicity, cancer_inorganics",0.000000014352,Emissions to water,Emissions to fresh water
+lead (ii),"Human toxicity, cancer_inorganics",0.0000000028366,Emissions to water,Emissions to sea water
+lead (ii),"Human toxicity, cancer_inorganics",0.0000000085945,Emissions to water,"Emissions to water, unspecified"
+lead (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+mercury,"Human toxicity, cancer_inorganics",0.0011516,Emissions to air,"Emissions to air, indoor"
+mercury,"Human toxicity, cancer_inorganics",0.0010781,Emissions to air,"Emissions to air, unspecified"
+mercury,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+mercury,"Human toxicity, cancer_inorganics",0.0010997,Emissions to air,Emissions to lower stratosphere and upper troposphere
+mercury,"Human toxicity, cancer_inorganics",0.0010997,Emissions to air,Emissions to non-urban air or from high stacks
+mercury,"Human toxicity, cancer_inorganics",0.0010564,Emissions to air,Emissions to urban air close to ground
+mercury,"Human toxicity, cancer_inorganics",0.0036487,Emissions to soil,Emissions to agricultural soil
+mercury,"Human toxicity, cancer_inorganics",0.000010704,Emissions to soil,Emissions to non-agricultural soil
+mercury,"Human toxicity, cancer_inorganics",0.0018297,Emissions to soil,"Emissions to soil, unspecified"
+mercury,"Human toxicity, cancer_inorganics",0.000015157,Emissions to water,Emissions to fresh water
+mercury,"Human toxicity, cancer_inorganics",0.0000096342,Emissions to water,Emissions to sea water
+mercury,"Human toxicity, cancer_inorganics",0.000012395,Emissions to water,"Emissions to water, unspecified"
+mercury,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+mercury (ii),"Human toxicity, cancer_inorganics",0.0011516,Emissions to air,"Emissions to air, indoor"
+mercury (ii),"Human toxicity, cancer_inorganics",0.0010781,Emissions to air,"Emissions to air, unspecified"
+mercury (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+mercury (ii),"Human toxicity, cancer_inorganics",0.0010997,Emissions to air,Emissions to lower stratosphere and upper troposphere
+mercury (ii),"Human toxicity, cancer_inorganics",0.0010997,Emissions to air,Emissions to non-urban air or from high stacks
+mercury (ii),"Human toxicity, cancer_inorganics",0.0010564,Emissions to air,Emissions to urban air close to ground
+mercury (ii),"Human toxicity, cancer_inorganics",0.0036487,Emissions to soil,Emissions to agricultural soil
+mercury (ii),"Human toxicity, cancer_inorganics",0.000010704,Emissions to soil,Emissions to non-agricultural soil
+mercury (ii),"Human toxicity, cancer_inorganics",0.0018297,Emissions to soil,"Emissions to soil, unspecified"
+mercury (ii),"Human toxicity, cancer_inorganics",0.000015157,Emissions to water,Emissions to fresh water
+mercury (ii),"Human toxicity, cancer_inorganics",0.0000096342,Emissions to water,Emissions to sea water
+mercury (ii),"Human toxicity, cancer_inorganics",0.000012395,Emissions to water,"Emissions to water, unspecified"
+mercury (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+nickel,"Human toxicity, cancer_inorganics",0.00011824,Emissions to air,"Emissions to air, indoor"
+nickel,"Human toxicity, cancer_inorganics",0.000019757,Emissions to air,"Emissions to air, unspecified"
+nickel,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+nickel,"Human toxicity, cancer_inorganics",0.000019545,Emissions to air,Emissions to lower stratosphere and upper troposphere
+nickel,"Human toxicity, cancer_inorganics",0.000019545,Emissions to air,Emissions to non-urban air or from high stacks
+nickel,"Human toxicity, cancer_inorganics",0.000019969,Emissions to air,Emissions to urban air close to ground
+nickel,"Human toxicity, cancer_inorganics",0.000028605,Emissions to soil,Emissions to agricultural soil
+nickel,"Human toxicity, cancer_inorganics",0.0000061262,Emissions to soil,Emissions to non-agricultural soil
+nickel,"Human toxicity, cancer_inorganics",0.000017366,Emissions to soil,"Emissions to soil, unspecified"
+nickel,"Human toxicity, cancer_inorganics",0.000011893,Emissions to water,Emissions to fresh water
+nickel,"Human toxicity, cancer_inorganics",0.00000061247,Emissions to water,Emissions to sea water
+nickel,"Human toxicity, cancer_inorganics",0.0000062525,Emissions to water,"Emissions to water, unspecified"
+nickel,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+nickel (ii),"Human toxicity, cancer_inorganics",0.00011824,Emissions to air,"Emissions to air, indoor"
+nickel (ii),"Human toxicity, cancer_inorganics",0.000019757,Emissions to air,"Emissions to air, unspecified"
+nickel (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+nickel (ii),"Human toxicity, cancer_inorganics",0.000019545,Emissions to air,Emissions to lower stratosphere and upper troposphere
+nickel (ii),"Human toxicity, cancer_inorganics",0.000019545,Emissions to air,Emissions to non-urban air or from high stacks
+nickel (ii),"Human toxicity, cancer_inorganics",0.000019969,Emissions to air,Emissions to urban air close to ground
+nickel (ii),"Human toxicity, cancer_inorganics",0.000028605,Emissions to soil,Emissions to agricultural soil
+nickel (ii),"Human toxicity, cancer_inorganics",0.0000061262,Emissions to soil,Emissions to non-agricultural soil
+nickel (ii),"Human toxicity, cancer_inorganics",0.000017366,Emissions to soil,"Emissions to soil, unspecified"
+nickel (ii),"Human toxicity, cancer_inorganics",0.000011893,Emissions to water,Emissions to fresh water
+nickel (ii),"Human toxicity, cancer_inorganics",0.00000061247,Emissions to water,Emissions to sea water
+nickel (ii),"Human toxicity, cancer_inorganics",0.0000062525,Emissions to water,"Emissions to water, unspecified"
+nickel (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+selenium,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+selenium (iv),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+zinc,"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, indoor"
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified"
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,"Emissions to air, unspecified (long-term)"
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to lower stratosphere and upper troposphere
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to non-urban air or from high stacks
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to air,Emissions to urban air close to ground
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to agricultural soil
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to soil,Emissions to non-agricultural soil
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to soil,"Emissions to soil, unspecified"
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to fresh water
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,Emissions to sea water
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified"
+zinc (ii),"Human toxicity, cancer_inorganics",0,Emissions to water,"Emissions to water, unspecified (long-term)"

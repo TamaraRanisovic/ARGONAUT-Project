@@ -1,0 +1,110 @@
+// place the 'argonaut_sc' folder within the 'fabric-samples' directory
+
+cd test-network
+./network.sh down
+./network.sh up createChannel
+
+export PATH=${PWD}/../bin:$PATH
+export FABRIC_CFG_PATH=$PWD/../config/
+peer version
+
+
+// ========= Channel successfully joined ===========
+
+
+cd ../argonaut_sc
+go mod tidy
+go mod vendor
+cd ../test-network
+peer lifecycle chaincode package basic.tar.gz --path ../argonaut_sc --lang golang --label basic_1.0
+
+
+
+export CORE_PEER_TLS_ENABLED=true
+export CORE_PEER_LOCALMSPID=Org1MSP
+export CORE_PEER_TLS_ROOTCERT_FILE=${PWD}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt
+export CORE_PEER_MSPCONFIGPATH=${PWD}/organizations/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp
+export CORE_PEER_ADDRESS=localhost:7051
+peer lifecycle chaincode install basic.tar.gz
+peer lifecycle chaincode queryinstalled
+
+
+export CORE_PEER_LOCALMSPID=Org2MSP
+export CORE_PEER_TLS_ROOTCERT_FILE=${PWD}/organizations/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt
+export CORE_PEER_MSPCONFIGPATH=${PWD}/organizations/peerOrganizations/org2.example.com/users/Admin@org2.example.com/msp
+export CORE_PEER_ADDRESS=localhost:9051
+peer lifecycle chaincode install basic.tar.gz
+peer lifecycle chaincode queryinstalled
+
+
+// Installed chaincodes on peer:
+
+// Package ID: basic_1.0:ba810c9ac2d0c689d3ec79eaf8a029c6ef82592b52eb8d435aa0ac842ce0bbb0, Label: basic_1.0
+
+
+export CC_PACKAGE_ID=basic_1.0:ba810c9ac2d0c689d3ec79eaf8a029c6ef82592b52eb8d435aa0ac842ce0bbb0
+peer lifecycle chaincode approveformyorg -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --channelID mychannel --name basic --version 1.0 --package-id $CC_PACKAGE_ID --sequence 1 --tls --cafile "${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem"
+
+
+export CORE_PEER_LOCALMSPID=Org1MSP
+export CORE_PEER_MSPCONFIGPATH=${PWD}/organizations/peerOrganizations/org1.example.com/users/Admin@org1.example.com/msp
+export CORE_PEER_TLS_ROOTCERT_FILE=${PWD}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt
+export CORE_PEER_ADDRESS=localhost:7051
+peer lifecycle chaincode approveformyorg -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --channelID mychannel --name basic --version 1.0 --package-id $CC_PACKAGE_ID --sequence 1 --tls --cafile "${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem"
+
+
+peer lifecycle chaincode checkcommitreadiness --channelID mychannel --name basic --version 1.0 --sequence 1 --tls --cafile "${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem" --output json
+
+/*
+{
+	"Approvals": {
+		"Org1MSP": true,
+		"Org2MSP": true
+	}
+}
+*/
+
+
+peer lifecycle chaincode commit -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --channelID mychannel --name basic --version 1.0 --sequence 1 --tls --cafile "${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem" --peerAddresses localhost:7051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt" --peerAddresses localhost:9051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt"
+peer lifecycle chaincode querycommitted --channelID mychannel --name basic
+
+
+// Committed chaincode definition for chaincode 'basic' on channel 'mychannel':
+// Version: 1.0, Sequence: 1, Endorsement Plugin: escc, Validation Plugin: vscc, Approvals: [Org1MSP: true, Org2MSP: true]
+
+peer chaincode invoke -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --tls --cafile "${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem" -C mychannel -n basic --peerAddresses localhost:7051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt" --peerAddresses localhost:9051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt" -c '{"function":"InitLedger","Args":[]}'
+peer chaincode query -C mychannel -n basic -c '{"Args":["GetAllFlows"]}'
+peer chaincode query -C mychannel -n basic -c '{"Args":["ReadFlow", "sodium azide"]}'
+peer chaincode invoke -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --tls --cafile "${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem" -C mychannel -n basic --peerAddresses localhost:7051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt" --peerAddresses localhost:9051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt" -c '{"Args":["DeleteFlow", "sodium azide"]}'
+peer chaincode invoke -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --tls --cafile "${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem" -C mychannel -n basic --peerAddresses localhost:7051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt" --peerAddresses localhost:9051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt" -c '{"Args":["CreateFlow", "carbon dioxide", "Human toxicity, cancer_inorganics", "Emissions to air", "Emissions to air, unspecified", "0.000056842"]}'
+peer chaincode invoke -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --tls --cafile "${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem" -C mychannel -n basic --peerAddresses localhost:7051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt" --peerAddresses localhost:9051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt" -c '{"Args":["UpdateFlow", "carbon dioxide", "Emissions to air", "Emissions to urban air high stack", "0.000067092"]}'
+peer chaincode invoke -o localhost:7050 --ordererTLSHostnameOverride orderer.example.com --tls --cafile "${PWD}/organizations/ordererOrganizations/example.com/orderers/orderer.example.com/msp/tlscacerts/tlsca.example.com-cert.pem" -C mychannel -n basic --peerAddresses localhost:7051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org1.example.com/peers/peer0.org1.example.com/tls/ca.crt" --peerAddresses localhost:9051 --tlsRootCertFiles "${PWD}/organizations/peerOrganizations/org2.example.com/peers/peer0.org2.example.com/tls/ca.crt" -c '{"Args":["UpdateFlow", "carbon dioxide", "Emissions to water", "Emissions to fresh water", "0.000031597"]}'
+
+
+
+// OR use curl --request
+
+
+cd ../asset-transfer-basic/rest-api-go
+go mod download
+go run main.go
+
+
+curl --request POST --url http://localhost:3000/invoke --header 'content-type: application/x-www-form-urlencoded' --data channelid=mychannel --data chaincodeid=basic --data function=InitLedger
+
+curl --request GET --url "http://localhost:3000/query?channelid=mychannel&chaincodeid=basic&function=GetAllFlows"
+
+curl --request GET --url "http://localhost:3000/query?channelid=mychannel&chaincodeid=basic&function=ReadFlow&args=sodium%20azide"
+
+curl --request POST --url http://localhost:3000/invoke --header 'content-type: application/x-www-form-urlencoded' --data channelid=mychannel --data chaincodeid=basic --data function=DeleteFlow --data args="sodium azide"
+
+curl --request POST --url http://localhost:3000/invoke --header 'content-type: application/x-www-form-urlencoded' --data channelid=mychannel --data chaincodeid=basic --data function=CreateFlow --data args="carbon dioxide" --data args="Human toxicity, cancer_inorganics" --data args="Emissions to air" --data args="Emissions to air, unspecified" --data args="0.000056842"
+
+curl --request POST --url http://localhost:3000/invoke --header 'content-type: application/x-www-form-urlencoded' --data channelid=mychannel --data chaincodeid=basic --data function=UpdateFlow --data args="carbon dioxide" --data args="Emissions to air" --data args="Emissions to urban air high stack" --data args="0.000067092"
+
+curl --request POST --url http://localhost:3000/invoke --header 'content-type: application/x-www-form-urlencoded' --data channelid=mychannel --data chaincodeid=basic --data function=UpdateFlow --data args="carbon dioxide" --data args="Emissions to water" --data args="Emissions to fresh water" --data args="0.000031597"
+
+
+
+./network.sh down
+
