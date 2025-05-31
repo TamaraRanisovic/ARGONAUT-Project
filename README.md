@@ -14,9 +14,20 @@ first_sc - pametan ugovor namenjen za upravljanje podacima o proizvodima i njiho
 
 argonaut_sc - pametan ugovor za dinamičku procenu ekološkog uticaja (LCA)
 
-Pre pokretanja pametnih ugovora, neophodno je pratiti uputstvo za instalaciju potrebnog softvera i preuzimanje fabric-samples repozitorijuma sa zvaničnog HLF sajta.
+Napomena:
+
+Pre testiranja pametnih ugovora, neophodno je pratiti uputstvo za instalaciju potrebnog softvera i preuzimanje fabric-samples repozitorijuma sa zvaničnog HLF sajta:
 
 https://hyperledger-fabric.readthedocs.io/en/release-2.4/getting_started.html
+
+Nakon toga, potrebno je slediti uputstva za pokretanje koja se nalaze unutar svakog od direktorijuma.
+
+
+
+
+
+
+
 
 
 
