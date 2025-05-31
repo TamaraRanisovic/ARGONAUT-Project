@@ -6,5 +6,13 @@ Cilj ARGONAUT projekta je razvoj pristupačnog alata zasnovanog na veštačkoj i
 
 ARGONAUT aktivno osnažuje mala i srednja preduzeća da donose održivije odluke, pružajući im pouzdane informacije i uporedne analize različitih opcija u lancu vrednosti.
 
-# Blokchain tehnologija
+# Primena blokchain tehnologije
+
+Direktorijumi first_sc i argonaut_sc sadrže pametne ugovore napisane u programskom jeziku Go za Hyperledger Fabric platformu, zajedno sa detaljnim uputstvom za njihovo pokretanje i testiranje.
+
+
+
+
+
+
 
