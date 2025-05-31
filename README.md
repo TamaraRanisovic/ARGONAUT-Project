@@ -1,4 +1,4 @@
-# ARGONAUT-Project
+# ARGONAUT projekat
 
 Ovaj repozitorijum sadrži materijale sa stručne prakse u kompaniji VizLore Labs Foundation, tokom koje sam imala priliku da se kroz istraživački i praktični rad detaljno upoznam sa evropskim projektom ARGONAUT i blockchain tehnologijom na kojoj se zasniva.
 
@@ -6,7 +6,5 @@ Cilj ARGONAUT projekta je razvoj pristupačnog alata zasnovanog na veštačkoj i
 
 ARGONAUT aktivno osnažuje mala i srednja preduzeća da donose održivije odluke, pružajući im pouzdane informacije i uporedne analize različitih opcija u lancu vrednosti.
 
-# Istraživački deo
-
-# Praktični deo
+# Blokchain tehnologija
 
