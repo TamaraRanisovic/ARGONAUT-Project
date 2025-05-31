@@ -10,7 +10,8 @@ ARGONAUT aktivno osnažuje mala i srednja preduzeća da donose održivije odluke
 
 Direktorijumi first_sc i argonaut_sc sadrže pametne ugovore napisane u programskom jeziku Go za Hyperledger Fabric platformu, zajedno sa detaljnim uputstvom za njihovo pokretanje i testiranje.
 
-
+first_sc - pametan ugovor namenjen za upravljanje podacima o proizvodima i njihovim ocenama
+argonaut_sc - pametan ugovor za dinamičku procenu ekološkog uticaja (LCA)
 
 
 
