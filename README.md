@@ -1,4 +1,4 @@
 # ARGONAUT-Project
 
-Cilj ARGONAUT projekta je razvoj pristupačnog alata zasnovanog na veštačkojinteligencijikojiomogućavaizračunavanjeuticajabio-baziranihproizvodanaživotnusredinuiklimutokomcelogživotnogciklusa.Korišćenjemblokčejntehnologije,svakiproizvoddobijasvoj„digitalnipasoš“kojiomogućavasigurnopraćenjekrozsvefazevrednosnoglanca.
-ARGONAUTaktivnoosnažujemalaisrednjapreduzećadadonoseodrživijeodluke,pružajućiimpouzdaneinformacijeiuporedneanalizerazličitihopcijaulancuvrednosti.
+Cilj ARGONAUT projekta je razvoj pristupačnog alata zasnovanog na veštačkoj inteligenciji koji omogućava izračunavanje uticaja bio-baziranih proizvoda na životnu sredinu i klimu tokom celog životnog ciklusa. Korišćenjem blokčejn tehnologije, svaki proizvod dobija svoj „digitalni pasoš“ koji omogućava sigurno praćenje kroz sve faze vrednosnog lanca. 
+ARGONAUT aktivno osnažuje mala i srednja preduzeća da donose održivije odluke, pružajući im pouzdane informacije i uporedne analize različitih opcija u lancu vrednosti.
